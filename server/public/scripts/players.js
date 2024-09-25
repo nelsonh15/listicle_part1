@@ -7,11 +7,14 @@ const renderPlayers = async () => {
         data.map(player => {
             const card = document.createElement('div')
             card.classList.add('card')
+
             const topContainer = document.createElement('div')
             topContainer.classList.add('top-container')
+            topContainer.style.backgroundImage = `url(${player.image})`
+
             const bottomContainer = document.createElement('div')
             bottomContainer.classList.add('bottom-container')
-            topContainer.style.backgroundImage = `url(${player.image})`
+            
             const name = document.createElement('h3')
             name.textContent = player.name
             bottomContainer.appendChild(name)

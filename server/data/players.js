@@ -4,7 +4,7 @@ const playersData = [
         "name": "LeBron James",
         "team": "Los Angeles Lakers",
         "position": "Small Forward",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+        "image":"https://www.ocregister.com/wp-content/uploads/2021/05/imageedit_1_7474432946.jpg?w=593",
         "description":"The King, and the GOAT of this generation, who still dominates the game even for his old age."
     },
     {
@@ -13,7 +13,7 @@ const playersData = [
         "team": "Golden State Warriors",
         "position": "Point Guard",
         "image":"https://onujwalsmind.wordpress.com/wp-content/uploads/2016/05/steph-suns-2.jpg",
-        "description":"The sniper from downtown who makes the 3-point line his damn playground."
+        "description":"The sniper from downtown who makes the 3-point line his playground."
     },
     {
         "id": 3,
