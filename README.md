@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://i.imgur.com/a/XUZVrZL.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/nelsonh15/listicle_part1/blob/main/listicle_part1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP
