@@ -1,4 +1,5 @@
 import express from 'express'
+import dotenv from './config/dotenv.js';
 import playersRouter from './routes/players.js'
 
 
